@@ -1,16 +1,18 @@
 ## Hi there 👋
 
 
-I am a Python Backend Developer with a focus on building efficient and scalable server-side applications. Recently, I have acquired skills essential for an entry-level position, including proficiency in Python, experience with Django and Flask frameworks, and development of RESTful APIs. I am also familiar with database management using PostgreSQL and have a grasp of version control with Git. Additionally, I possess basic knowledge of cloud services and am committed to writing clean, maintainable code. I am eager to apply my skills and continue learning in a professional environment.
-Here are some ideas to get you started:
+I am Esther, a Python Backend Developer with a focus on building efficient and scalable server-side applications. Recently, I have acquired skills essential for an entry-level position, including proficiency in Python, experience with Django and Flask frameworks, and development of RESTful APIs. I am also familiar with database management using PostgreSQL and have a grasp of version control with Git. Additionally, I possess basic knowledge of cloud services and am committed to writing clean, maintainable code. I am eager to apply my skills and continue learning in a professional environment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-**Estherkarl/Estherkarl**
+**🛠️ My Skills**:
+- Python
+- Postgresql
+- RestApi
+- Django
+- Docker
+- Object-Oriented Programming (OOP)
+- GIT
+- Google cloud platform
+- Agile
+- CI/CD
+- Software Test
+- 

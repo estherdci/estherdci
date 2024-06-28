@@ -11,8 +11,9 @@ I am Esther, a Python Backend Developer with a focus on building efficient and s
 - Docker
 - Object-Oriented Programming (OOP)
 - GIT
-- Google cloud platform
+- AWS cloud platform
 - Agile
 - CI/CD
 - Software Test
-- 
+- Linux
+  

@@ -1,8 +1,7 @@
 ## Hi there 👋
 
 
-**Estherkarl/Estherkarl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+I am a Python Backend Developer with a focus on building efficient and scalable server-side applications. Recently, I have acquired skills essential for an entry-level position, including proficiency in Python, experience with Django and Flask frameworks, and development of RESTful APIs. I am also familiar with database management using PostgreSQL and have a grasp of version control with Git. Additionally, I possess basic knowledge of cloud services and am committed to writing clean, maintainable code. I am eager to apply my skills and continue learning in a professional environment.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+**Estherkarl/Estherkarl**
